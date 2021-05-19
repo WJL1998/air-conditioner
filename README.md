@@ -1,13 +1,13 @@
 # Air Conditioner
 
-[![Github Pages](https://github.com/YunYouJun/air-conditioner/workflows/Github%20Pages/badge.svg)](https://github.com/YunYouJun/air-conditioner/actions)
+[![Github Pages](https://github.com/YunYouJun/air-conditioner/workflows/Github%20Pages/badge.svg)](https://github.com/WJL1998/air-conditioner/actions)
 
 云空调，便携小空调，为你的夏日带去清凉！
 
-前世今生：[云空调，便携小空调｜云游君的小站](https://www.yunyoujun.cn/posts/air-conditioner/)
+[云空调，便携小空调｜Foreile的小站](https://www.foreile.link:3000/demoUploads/air-conditioner/index.html)
 
-- 裸机：<https://ac.yunyoujun.cn>
-- 样板房：<https://www.yunyoujun.cn/air-conditioner-room/>
+- 裸机：<https://foreile.link>
+- 样板房：<https://www.foreile.link:3000/demoUploads/air-conditioner/index.html>
 
 ## Features
 
@@ -29,12 +29,12 @@
 ### iframe
 
 ```html
-<iframe height="740" src="https://ac.yunyoujun.cn"></iframe>
+<iframe height="740" src="https://www.foreile.link:3000/demoUploads/air-conditioner/index.html"></iframe>
 ```
 
 您可以快速为您的网站安装空调。
 
-样板房：[空调房](https://www.yunyoujun.cn/air-conditioner-room/)
+样板房：[空调房](https://www.foreile.link:3000/demoUploads/air-conditioner/index.html)
 
 ## Dev
 
